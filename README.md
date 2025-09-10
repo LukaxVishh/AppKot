@@ -1,2 +1,2 @@
 # AppKot
-Primeiro trabalho de kotlin
+Primeiro trabalho de kotlina
